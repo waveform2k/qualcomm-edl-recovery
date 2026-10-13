@@ -57,7 +57,7 @@ up `modemst1`/`modemst2`/`fsg`/`persist` before the first write, and refuses
 to upload a loader whose identity doesn't match the phone. Flashing still
 carries risk: you run this on your own device at your own risk.
 
-## Authorship
+## License and authorship
 
-Written by Claude (Opus 5.5) with waveform2k, from the OnePlus 6T recovery
+MIT (see `LICENSE`). Written by Claude (Opus 5.5) with waveform2k, from the OnePlus 6T recovery
 session on 2026-10-12.
